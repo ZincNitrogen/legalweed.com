@@ -1,2 +1,2 @@
 # legalweed.com
-a hypothetical marijunana dispendary website
+a hypothetical marijuana dispendary website
